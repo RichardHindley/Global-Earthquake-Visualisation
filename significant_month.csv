@@ -1,0 +1,8 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-20T12:17:36.030Z,33.028,-116.0046667,11.18,4.05,mw,83,20,0.1439,0.25,ci,ci40593503,2024-05-23T02:58:53.289Z,"17 km SE of Ocotillo Wells, CA",earthquake,0.17,0.56,,6,reviewed,ci,ci
+2024-05-15T06:39:03.840Z,40.8283333333333,-123.901833333333,25.58,4.02,mw,47,34,0.09753,0.15,nc,nc75006996,2024-05-17T21:34:03.993Z,"9 km SE of Blue Lake, CA",earthquake,0.29,0.56,,10,reviewed,nc,nc
+2024-05-15T00:30:11.410Z,19.2698,-67.4235,7,5.6,ml,32,191,0.8609,0.43,pr,pr2024136000,2024-05-23T00:40:25.217Z,"92 km NNW of San Antonio, Puerto Rico",earthquake,1.64,2.009,0.17,18,reviewed,pr,pr
+2024-05-12T11:39:14.137Z,14.4518,-92.363,75.426,6.4,mww,148,40,0.788,1.3,us,us6000my20,2024-05-14T07:31:58.254Z,"17 km WSW of Brisas Barra de Suchiate, Mexico",earthquake,6.98,4.585,0.031,103,reviewed,us,us
+2024-05-01T20:49:00.760Z,33.8111667,-117.6445,4.61,4.12,mw,210,13,0.03349,0.21,ci,ci40735352,2024-05-20T13:33:55.444Z,"10 km SW of Corona, CA",earthquake,0.1,0.28,,6,reviewed,ci,ci
+2024-04-27T16:29:51.110Z,-7.9997,107.2981,63.336,6.1,mww,231,19,0.637,0.66,us,us6000muc0,2024-05-23T14:36:08.154Z,"90 km S of Banjar, Indonesia",earthquake,6.02,2.947,0.044,50,reviewed,us,us
+2024-04-27T08:35:34.822Z,27.8217,139.577,503.896,6.5,mww,217,24,2.427,0.6,us,us6000mu8k,2024-05-10T07:37:45.920Z,"Bonin Islands, Japan region",earthquake,9.43,3.133,0.035,77,reviewed,us,us
